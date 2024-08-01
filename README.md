@@ -7,3 +7,15 @@
 🔍 I believe in the power of technology to enhance safety and peace of mind, and I'm excited to see how this project evolves!
 
 🚧 Stay tuned for updates as I continue to develop and refine the "Text me right when you get home" app. Your feedback and support are invaluable as I work to make this idea a reality!
+
+#Features#
+- Arrival notification
+- Safety alerts
+- Proof of residence
+- Emergency contact notification
+- Privacy and security
+- Assistance for vulnerable users
+- Persistent alerts
+- Mapping system
+- Customizable alerts
+- Continuous communication
